@@ -1,7 +1,7 @@
 ﻿using KartGame.KartSystems;
 using UnityEngine;
 using UnityEngine.Events;
-
+//cambio de la rama main
 public class ArcadeKartPowerup : MonoBehaviour {
 
     public ArcadeKart.StatPowerup boostStats = new ArcadeKart.StatPowerup
