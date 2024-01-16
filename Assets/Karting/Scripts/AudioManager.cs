@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Audio;
-//cambio en main
+//cambio rama 2
 public class AudioManager : MonoBehaviour
 {
     public AudioMixer audioMixer;
