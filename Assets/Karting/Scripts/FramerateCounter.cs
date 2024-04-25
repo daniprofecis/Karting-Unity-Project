@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using TMPro;
-//cambio en main
+
 public class FramerateCounter : MonoBehaviour
 {
     [Tooltip("Delay between updates of the displayed framerate value")]
